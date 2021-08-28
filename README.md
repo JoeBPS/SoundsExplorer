@@ -1,2 +1,0 @@
-# SoundsExplorer
- Main Module
